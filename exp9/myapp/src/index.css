@@ -1,0 +1,10 @@
+*{
+  padding:0;
+  margin:0;
+}
+.Navbar{
+  padding: 20px;
+  align-items: center;
+  display:flex;
+  background-color: blue;
+}

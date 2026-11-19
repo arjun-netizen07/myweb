@@ -1,0 +1,39 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+.header{
+    background-color: black;
+    color: aliceblue;
+    padding:4px;
+}
+.logo{
+    margin:1px;
+    display:flex;
+    align-items: center;
+    padding:2px;
+}
+.navbar{
+    color:aliceblue;
+    background-color: rgb(112, 112, 159);
+    display:flex;
+    font-size: 15px;
+   justify-content: space-between;
+}
+.links{
+    display:flex;
+    padding:20px;
+    gap:50px;
+}
+.hero{
+    padding-left: 10px;
+    font-size: 15px;
+}
+.footer{
+    background-color: black;
+    color:white;
+    padding:20px;
+    font-size: 20px;
+
+}
